@@ -1,2 +1,2 @@
-# simulador
-Simulador IIC
+# Sine ICC
+SINE IIC
